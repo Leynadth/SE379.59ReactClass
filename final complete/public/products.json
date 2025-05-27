@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Blue de Chanel",
+    "description": "A crisp and elegant men's scent.",
+    "price": 189.99,
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1714441461-2562693.png?crop=1xw:1.00xh;center,top&resize=980:*"
+  },
+  {
+    "id": 2,
+    "name": "Dolce & Gabbana - light blue",
+    "description": "A Oceanic and citrus fragrance for women.",
+    "price": 79.99,
+    "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1714441095-dolce-66304b8151d68.jpg?crop=1xw:1xh;center,top&resize=980:*"
+  },
+  {
+    "id": 3,
+    "name": "Shalimar Parfum",
+    "description": "Fresh aquatic vibes for any occasion.",
+    "price": 59.99,
+    "image": "https://www.pngall.com/wp-content/uploads/2016/05/Perfume-Free-Download-PNG.png"
+  },
+  {
+    "id": 4,
+    "name": "Joel's Summer mink ⁶𓅓",
+    "description": "Smell like drizzy himself",
+    "price": 148.00,
+    "image": "https://media.ulta.com/i/ulta/2638929?w=1600&h=1600&fmt=auto"
+  },
+  {
+    "id": 5,
+    "name": "Baccarat Rouge 540",
+    "description": "Fresh oriental/floral notes for any occasion.",
+    "price": 475.00,
+    "image": "https://frank-collection.com/cdn/shop/files/baccarat70_54c6d0df-4f92-40f8-9db9-865de178dd61_600x.png?v=1746567749"
+  }
+]
